@@ -38,7 +38,11 @@ void docs() {
     cout << "Contact developer" << " " << "\"sameer2020bvks@gmail.com\"";
     cout << endl ;
  
-    cout<< "github" << "\t" << "";
+    cout << "Contribute to Project @" << "\t";
+    std::cout << "\033[39m";
+    cout<< "https://github.com/bvks2020sameer/matrixLab";
+    std::cout << "\033[36m";
+
     cout << endl << endl;
 
     std::cout << "\033[31m";
