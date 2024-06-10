@@ -1,5 +1,5 @@
 # matrixLab
-C++ libraries to solve fundamental matrix functions
+matrixLab is a set of C++ libraries to solve fundamental matrix functions
 matrixLab primarily constitutes of 5 different libraries
 1. vector.h to handle all vector operations
 2. matrix.h to handle all matrix operations
