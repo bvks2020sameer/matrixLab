@@ -16,6 +16,7 @@ matrixLab primarily constitutes of 5 different libraries
  🔎 *Contribute to this repo by pulling a feature request or bugFix issue on issues tab on this repo*
 
   <br>
-  ![Screenshot 2024-06-11 150725](https://github.com/bvks2020sameer/matrixLab/assets/73697916/42a9bf62-363c-45a7-a05c-c5b9705fc01d)
-
+  
+ ## Built in Microsoft Visual Studio 2022 
+ <Br>
 Developer Contact @ 📧 sameer2020bvks@gmail.com
