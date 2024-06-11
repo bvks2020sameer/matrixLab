@@ -7,4 +7,6 @@ matrixLab primarily constitutes of 5 different libraries
 4. orthogonalization.h to orthogonalize a matrix
 5. eigen.h to find eigen values of a matrix and upper triangular matrix 5
 
+ 📓 *Run matrixLab.cpp to view the docs*
+
 Developer Contact @ 📧 sameer2020bvks@gmail.com
