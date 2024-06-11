@@ -5,7 +5,7 @@ matrixLab primarily constitutes of 5 different libraries
 2. matrix.h to handle all matrix operations
 3. crammer.h to solve a set of linear equations
 4. orthogonalization.h to orthogonalize a matrix
-5. eigen.h to find eigen values of a matrix and upper triangular matrix 5
+5. eigen.h to find eigen values of a matrix and upper triangular matrix 
 
  📓 *Run matrixLab.cpp to view the docs*
  <br>
