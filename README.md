@@ -17,6 +17,6 @@ matrixLab primarily constitutes of 5 different libraries
 
   <br>
   
- ## Built in Microsoft Visual Studio 2022 
+ ### Built in Microsoft Visual Studio 2022 
  <Br>
-Developer Contact @ 📧 sameer2020bvks@gmail.com
+## Developer Contact @ 📧 sameer2020bvks@gmail.com
