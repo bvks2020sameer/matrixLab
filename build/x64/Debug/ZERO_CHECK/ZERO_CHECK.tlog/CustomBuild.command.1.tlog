@@ -1,0 +1,10 @@
+^D:\PROGRAMS\PROJECTS\MATRIXSOLVER\BUILD\CMAKEFILES\10E3FF4DE9C0C984D2DBF162A10B049C\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/Programs/Projects/MatrixSolver -BD:/Programs/Projects/MatrixSolver/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Programs/Projects/MatrixSolver/build/MatrixSolver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

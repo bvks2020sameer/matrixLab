@@ -1,0 +1,4 @@
+D:/Programs/Projects/MatrixSolver/build/CMakeFiles/matrixLab.dir
+D:/Programs/Projects/MatrixSolver/build/CMakeFiles/ALL_BUILD.dir
+D:/Programs/Projects/MatrixSolver/build/CMakeFiles/ZERO_CHECK.dir
+D:/Programs/Projects/MatrixSolver/build/pybind11/CMakeFiles/ALL_BUILD.dir

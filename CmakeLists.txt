@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(MatrixSolver)
+
+add_subdirectory(pybind11)
+
+
+pybind11_add_module(matrixLab MODULE src/python_binder.cpp)
+
+# Set properties for shared library on Windows
+if (WIN32)
+    set_target_properties(matrixLab PROPERTIES SUFFIX ".pyd")
+endif()
