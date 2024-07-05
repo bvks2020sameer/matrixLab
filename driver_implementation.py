@@ -33,6 +33,9 @@ print()
 
 print("Crammer's rule")
 
+s = matrixLab.matrix([[1.0, 2.0]])
+print(matrixLab.crammer(m,s))
+
 print()
 
 print("Orthogonalization")
