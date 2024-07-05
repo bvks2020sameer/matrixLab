@@ -1,5 +1,5 @@
 # matrixLab
-C++ libraries to solve fundamental matrix functions
+This is a python wrapper to matrixLab C++ implementation 
 matrixLab primarily handles 5 different types of operations
 1. vector operations
 2. matrix operations
@@ -7,5 +7,6 @@ matrixLab primarily handles 5 different types of operations
 4. orthogonalization of matrix
 5. eigen functions  to find eigen values of a matrix and upper triangular matrix 
 
-**Run Docs.py to know more**
+*Run docs.py to know more*
+<br>
 Developer Contact @ 📧 sameer2020bvks@gmail.com
