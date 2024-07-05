@@ -1,10 +1,11 @@
 # matrixLab
 C++ libraries to solve fundamental matrix functions
-matrixLab primarily constitutes of 5 different libraries
-1. vector.h to handle all vector operations
-2. matrix.h to handle all matrix operations
-3. crammer.h to solve a set of linear equations
-4. orthogonalization.h to orthogonalize a matrix
-5. eigen.h to find eigen values of a matrix and upper triangular matrix 5
+matrixLab primarily handles 5 different types of operations
+1. vector operations
+2. matrix operations
+3. crammer's rule
+4. orthogonalization of matrix
+5. eigen functions  to find eigen values of a matrix and upper triangular matrix 
 
+**Run Docs.py to know more**
 Developer Contact @ 📧 sameer2020bvks@gmail.com

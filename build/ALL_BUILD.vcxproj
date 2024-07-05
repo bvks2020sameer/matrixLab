@@ -173,6 +173,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="D:\Programs\Projects\MatrixSolver\build\Docs.vcxproj">
+      <Project>{829670E0-443C-3E18-A3FA-7E1FAB1ACE97}</Project>
+      <Name>Docs</Name>
+    </ProjectReference>
     <ProjectReference Include="D:\Programs\Projects\MatrixSolver\build\matrixLab.vcxproj">
       <Project>{80A6BE08-8F76-3EE0-9CDB-FBEA981986E5}</Project>
       <Name>matrixLab</Name>

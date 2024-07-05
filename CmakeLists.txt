@@ -11,3 +11,8 @@ pybind11_add_module(matrixLab MODULE src/python_binder.cpp)
 if (WIN32)
     set_target_properties(matrixLab PROPERTIES SUFFIX ".pyd")
 endif()
+
+#docs
+
+add_executable(Docs docs.cpp)
+
